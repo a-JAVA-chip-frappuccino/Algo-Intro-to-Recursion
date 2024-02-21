@@ -12,3 +12,4 @@ By the end of today's Algo Club, you will be able to iteratively and recursively
     - What are the two parts of a **recursive function**?
 3. Write an iterative function to solve the nth value of the Fibonacci sequence.
 4. Write a recursive function to solve the nth value of the Fibonacci sequence.
+5. Optionally, add more recursive algorithms, such as calculating the nth value of the Lucas numbers sequence, calculating the factorial of a number, or performing binary search.
